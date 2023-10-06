@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ducker/__init__.py
+ducker/assets.py
+ducker.egg-info/PKG-INFO
+ducker.egg-info/SOURCES.txt
+ducker.egg-info/dependency_links.txt
+ducker.egg-info/requires.txt
+ducker.egg-info/top_level.txt
